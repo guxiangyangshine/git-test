@@ -7,11 +7,10 @@ public class FirstClass {
         System.out.println("git");
         System.out.println("git");
         System.out.println("git");
-        //sad
+        //sad是
     }
     public void test(){
-        int i=0;
-        i+=10;
+
         System.out.println("33");
     }
 }
