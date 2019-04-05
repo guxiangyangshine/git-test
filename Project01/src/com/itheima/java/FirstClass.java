@@ -7,7 +7,7 @@ public class FirstClass {
         System.out.println("git");
         System.out.println("git");
         System.out.println("git");
-        //sad是
+        //sad是  发
     }
     public void test(){
 
