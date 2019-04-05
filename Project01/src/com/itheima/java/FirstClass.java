@@ -7,6 +7,7 @@ public class FirstClass {
         System.out.println("git");
         System.out.println("git");
         System.out.println("git");
+        //sad
     }
     public void test(){
         int i=0;
